@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dlodom92
-- 👀 I’m interested in coding video games(GTA, RD2) ...
-- 🌱 I’m currently learning Python I am an entry-level coder ...
-- 💞️ I’m looking to collaborate on furthering my coding knowledge/skills. ...
+- 👋 Hi, I’m Darius Odom I'm from North Carolina. I play video games(GTA, RD2).
+- 👀 I’m interested in Data Analytics, Cyber Security, Web development & much more 
+- 🌱 I’m currently learning Python, Java Script, & React 
+- 💞️ I’m looking to  further my coding knowledge/skills through projects, books, practice & countless other resources. 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@djodom1831316/30-nites-of-code)  
   ![@djodom1831316 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=djodom1831316)
